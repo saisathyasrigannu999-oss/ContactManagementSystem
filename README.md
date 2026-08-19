@@ -69,3 +69,8 @@ This project was created to strengthen practical understanding of **Java OOP pri
 ##  Project Type
 
 **Console-Based Java Application | OOP Practice Project**
+
+
+
+
+<img width="932" height="412" alt="Image" src="https://github.com/user-attachments/assets/8fc3ca8e-a364-450d-a170-be3badef6a82" />
