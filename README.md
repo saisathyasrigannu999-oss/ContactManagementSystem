@@ -73,4 +73,5 @@ This project was created to strengthen practical understanding of **Java OOP pri
 <img width="480" height="443" alt="Image" src="https://github.com/user-attachments/assets/83c79131-145e-4400-b99f-1b99bdd61b85" />
 <img width="440" height="431" alt="Image" src="https://github.com/user-attachments/assets/cf9b772a-0f2a-4e93-ade7-f92e006ca52a" />
 <img width="497" height="431" alt="Image" src="https://github.com/user-attachments/assets/219e3d8d-3f79-44ed-97d4-2034a50aa3ef" />
+<img width="780" height="611" alt="Image" src="https://github.com/user-attachments/assets/e08f4a8e-36ff-45de-983d-52f5582b52ea" />
 
